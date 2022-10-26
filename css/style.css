@@ -1,0 +1,16 @@
+body {
+  background-color: #141824;
+  font-family: Helvetica, arial, sans-serif;
+}
+
+.mywhite {
+  color: white;
+}
+
+.my-big-font {
+  font-size: 28px;
+}
+
+.widthImage {
+  width: 20%;
+}
